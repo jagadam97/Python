@@ -20,3 +20,4 @@ print(message)
 
 print(dir(name))
 print(help(str))
+print(help(str.lower))
